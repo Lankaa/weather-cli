@@ -1,0 +1,1 @@
+const WEATHER_API_TOKEN = 'f36c96d29bdaa4ee2b83457eebeed3eb';
